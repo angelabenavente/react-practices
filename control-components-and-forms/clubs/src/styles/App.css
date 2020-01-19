@@ -1,0 +1,28 @@
+
+ul {
+   list-style: none;
+   background-color: grey;
+   padding: 20px;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+}
+
+.clubs {
+  display: flex;
+  flex-direction: row;
+  background-color: beige;
+  margin: 20px;
+}
+
+.container {
+  width: 100%;
+}
+.title {
+  display: inline-block;
+}
+.membersList {
+  display: inline-block;
+}
