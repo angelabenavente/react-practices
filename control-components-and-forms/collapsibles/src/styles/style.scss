@@ -1,0 +1,10 @@
+.form-bottom {
+  height: auto;
+  max-height: 0;
+  transition: max-height 0.25s linear; 
+  overflow: hidden;
+
+  &-open  {
+      max-height: 580px;
+  }
+}
